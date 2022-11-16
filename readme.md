@@ -25,4 +25,4 @@
 
 ## 추가로 해야할 일들
 - 연락처 이메일 변경: info@code.com -> 실제 이메일로 변경
-- 찾아바꾸기: "code.com"를 실제 도메인으로 / 파일: index.html , CNAME
+- 찾아바꾸기: "code.com"를 실제 도메인으로 / 파일: index.html , CNAME.
